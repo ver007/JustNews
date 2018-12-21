@@ -1,4 +1,4 @@
-# JustNews
+# JustNews V3.6.2
 
 # Use
 
